@@ -1,0 +1,7 @@
+AMP Media Player ver 1.0 October, 2016
+
+Althought this project is fully working there are some things left to do.
+
+1. Find a solution to get rid of the sliders, huge dependency
+3. Figure out how to improve the sound.
+4. Optimize and clean up the code

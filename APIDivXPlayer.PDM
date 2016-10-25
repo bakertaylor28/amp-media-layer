@@ -1,0 +1,98 @@
+[Root]
+Most Recent Package=APIDivXPlayer
+
+
+[Package|APIDivXPlayer|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Final Source\APIDivX\APIDivXPlayerSetup
+
+[Package|APIDivXPlayer|Configure DAO ISAMs]
+Applicable=No
+
+[Package|APIDivXPlayer|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|APIDivXPlayer|Files Found]
+
+[Package|APIDivXPlayer|Files Released]
+
+[Package|APIDivXPlayer|Missing Dependency Information]
+
+[Package|APIDivXPlayer|Out-of-Date Dependency Information]
+
+[Package|APIDivXPlayer|Files Added]
+
+[Package|APIDivXPlayer|Files Removed]
+c:\windows\system32\comdlg32.ocx=
+c:\windows\system32\msvbvm60.dll=
+c:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\oleaut32.dll=
+c:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\olepro32.dll=
+c:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\asycfilt.dll=
+c:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\stdole2.tlb=
+c:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+
+[Package|APIDivXPlayer|Files In Project]
+D:\Final Source\APIDivX\APIDivXSource\APIDivXPlayer.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINDOWS\system32\COMDLG32.OCX=No
+C:\WINDOWS\system32\COMCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|APIDivXPlayer|Configure Registry Files]
+Applicable=No
+
+[Package|APIDivXPlayer|Configure Remote Servers]
+Applicable=No
+
+[Package|APIDivXPlayer|Install Locations]
+D:\Final Source\APIDivX\APIDivXSource\APIDivXPlayer.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|APIDivXPlayer|Configure Shared Files]
+Applicable=Yes
+D:\Final Source\APIDivX\APIDivXSource\APIDivXPlayer.exe=No
+
+[Package|APIDivXPlayer|Distribution]
+Type=single
+Size=
+Title=APIDivXPlayer
+
+[Package|APIDivXPlayer|IconGroups]
+Group0=KnotonDeV
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|APIDivXPlayer|KnotonDeV]
+Icon1=APIDivXPlayer.exe
+Title1=APIDivXPlayer
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|APIDivXPlayer|Package]
+PackageFolder=D:\Final Source\APIDivX\APIDivXPlayerSetup
+ProjectFolder=D:\Final Source\APIDivX\APIDivXSource
+ServerSideCab=
+File1=D:\Final Source\APIDivX\APIDivXPlayerSetup\setup.exe
+File2=D:\Final Source\APIDivX\APIDivXPlayerSetup\Setup.Lst
+File3=D:\Final Source\APIDivX\APIDivXPlayerSetup\APIDivXPlayer.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

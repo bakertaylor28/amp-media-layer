@@ -1,0 +1,46 @@
+This is a DivX media player for Windows 2000 and later.
+This program may be supported by the Linux WINE 
+emulator. It is a stand-alone executable, and does not
+require any installation into your system. 
+
+
+Supported Formats:
+
+The supported formats are avi, asf, mpg, mpeg, and 
+wmv. 
+
+
+Controls:
+
+A. Opening a file
+Click File > Open on the top menu to open a file.
+
+B. Playing file
+After file has been opened, click the Play button
+to play the file.
+
+C.Resize:
+Click the - and + buttons to make the video larger
+and smaller than the original, with the original file
+size being 100%. The current size of the viedo is 
+displayed as a percentage to the left of these controls.
+The minimum supported size is 25%.
+
+D. Full Screen
+Click the box next to full Screen to make the video 
+full screen. The controls are hidden in full screen
+
+E. Hot Keys 
+Click Help > Help from the menu bar to 
+view the various hot key functions. 
+
+F. Seek
+Drag the Seek slider to find a position in the 
+video. The left side of the slider is the begining
+of the video. The right side is the end. Your current
+possition is displayed to the left  in terms of 
+h:mm:ss. 
+
+G. Volume
+Drag the slider to the left to decrease volume, and 
+to the right to increase it. 

@@ -1,0 +1,63 @@
+AMP MEDIA PLAYER V. 1.0
+END USER LICENSE AGREEMENT (EULA)
+
+By Downloading the source code of this application, or
+by using this application in any way, you agree to the 
+terms and conditions of this agreement. If you do not 
+agree to this agreement, you may not use this program or
+it's source code in any way, and any copies in your 
+posession are deemed to be unlicensed copies, and are to
+be considered to be a violation of copyright. 
+
+1. APPLICATION- This software is distributed as free-
+ware. It is provided on an AS IS basis, and will not
+be actively maintained by its author. As such, you 
+agree that the author of this program is NOT to be held 
+responsible for Any damages, cosequential or otherwise,
+in any event, as relates to this software. You may 
+freely distribute this software, but you may not remove
+the copyright information.
+
+2. SOURCE CODE- The source code is provided for the 
+purpose of trouble shooting and manual compilation ONLY.
+You agree 
+
+3. VIOlATIONS- If you violate this agreement in any way,
+your license to use this software and its source code
+shall be deemed to be REVOKED, and your copy of such 
+materials shall be deemed UNLICENSED, and a violation of
+copyright law.
+
+4. JURISDICTION- you agree that this agreement shall be
+only governed by the laws of the United States of America.
+You agree to waive the applicablity of any conflict of 
+laws doctrines or statutes, as well as the applicablity
+of the law of any foriegn country. You agree to submit 
+yourself to both the subject matter jurisdiction and the
+personal jurisdiction of the Untied States District Court
+for any district having jurisdiction over the person of
+the author of these materials. You explicitly forever
+waive any other jurisdiction.
+
+5. Severability- The clauses of this agreement shall 
+function independentaly, and shall be construed both 
+jointly and severally. If any provision shall be 
+deemed by any court to be unenforceable, the unenforceable
+provision shall be struck only to the extent it is 
+non-enforceable, and the remainder of that provision 
+shall remain in full force and effect, along with all
+other provisions of this agreement remaining in full 
+force and effect. If an entire provision of this agreement
+shall be deemed uneforceable, then the remaining 
+provisions of this agreement shall remain in full force
+and effect. 
+
+6. Enteriety of Agreement- This agreement shall represent
+the entirety of the End-User License agreement. This 
+agreement may only be modified in writing and must 
+bear the ink signature of the author of these materials. 
+ 
+
+7. License- you are granted a revocable license to use
+these materials (program and source code), subject to this
+agreement.  

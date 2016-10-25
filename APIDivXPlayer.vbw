@@ -1,0 +1,7 @@
+frmMedia = 50, 105, 1070, 617, C, 22, 22, 1042, 534, C
+ModMedia = 132, 132, 1152, 644, C
+CommonDialog = 0, 0, 1020, 512, C
+modHotKey = 110, 110, 1130, 622, C
+frmHelp = 242, 242, 1262, 754, C, 220, 220, 1240, 732, C
+ScreensaverOffOn = 22, 22, 1042, 534, C
+Modulevars = 44, 44, 1064, 556, C
